@@ -80,10 +80,7 @@ Also the red text is the error message if the user doesn't enter valid text in t
 
 # Wrap up
 
-Thanks for reading this blog. More will be on the way. Let me know what you think at hamzaalsarakbi@gmail.com!
-
-[GitHub](https://github.com/HamzaAlsarakbi)
-
+Thanks for reading this blog. More will be on the way. Let me know what you think at <hamzaalsarakbi@gmail.com>!
 
 <!-- Links -->
 [PassVault]: https://github.com/HamzaAlsarakbi/PassVault
