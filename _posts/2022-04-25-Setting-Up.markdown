@@ -42,7 +42,7 @@ Now I didn't really know any workaround at the time. So I just rolled with it. B
 
 I took COMP 1406 (Introduction to Programming II) this winter and learned more about Object-Oriented programming. With that in mind, I realized that I can't keep working on PassVault and would just have to completely rewrite it.
 
-Also I wanted to add features like saving keys (GitHub keys, Spotify keys, etc.) and with the already messy code-base, it is just better to start over and also JavaFX. So here comes OpenVault.
+Also I wanted to add features like saving keys (GitHub keys, Spotify keys, etc.) and with the already messy code-base, it is just better to start over and also learn JavaFX. So comes OpenVault.
 
 
 # OpenVault
@@ -51,7 +51,7 @@ I'm still not entirely sure about the naming. I thought of "PassVault II", "Open
 
 ## Java/IntelliJ
 
-Not sure if this is a Java or IntelliJ issue, but sometimes my code just stops working for no reason even if I don't change anything. I get a random error and have to mess around in the `module-info.java` file until it works.
+Not sure if this is a Java or IntelliJ issue, but sometimes my code just stops working for no reason even if I don't change anything. I get a random error and have to mess around in `module-info.java` files until it works.
 
 ## JavaFX
 
@@ -59,13 +59,13 @@ My journy learning JavaFX has been quite interesting. I really miss the simple e
 
 ## UI
 
-I was not sure whether I should use a UI library like Gluon or design everything from the ground up myself. Gluon feels like a 2016 android app and I wanted my app to look unique so I decided to go make my own UI controls.
+I was not sure whether I should use a UI library like Gluon or design everything from the ground up myself. Gluon feels like a 2016 android app and I wanted my app to look unique so I decided to go make my own controls.
 
 Here are some photos:
 
-![](/assets/setting-up/2nd-ui.png)
+![](/blog/assets/setting-up/2nd-ui.png)
 This is the first iteration.
-![](/assets/setting-up/current-ui.png)
+![](/blog/assets/setting-up/current-ui.png)
 
 
 This is the current iteration. The UI is still a WIP but the sidebar is almost finished. I just need to remake the icons because I think they just don't look that good yet. Will probably add colors so that they stand out better.
@@ -74,7 +74,7 @@ On the right is the logins menu which holds all the passwords. It works almost t
 
 Right now, I'm working on a custom input controller where the label goes up when the user clicks on the text field. Still no animations yet but coming soon!
 
-![](/assets/setting-up/rich-input-demo.gif)
+![](/blog/assets/setting-up/rich-input-demo.gif)
 
 Also the red text is the error message if the user doesn't enter valid text in the a text field. Still working on the model for logins and the UI will be updated after that.
 
