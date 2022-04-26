@@ -10,7 +10,7 @@ This is going to be a long blog because I will be talking about everything leadi
 
 # Before PassVault
 
-Before I started working on [PassVault][]. I was self-learning coding (JavaScript in this case) and needed to work on a real-project instead of a simple calculator or clock app.
+Before I started working on [PassVault][]. I was self-learning coding (JavaScript in this case) and needed to work on a practical project instead of a simple calculator or clock app.
 
 The thought of making a password manager came up since I was having a hard time with memorizing multiple passwords and didn't want to use the same passwords for everything. I also don't like putting sensitive information in the hands of any company regardless of how big or small it is; and many companies pull an Adobe by making you sign up "for free!!" and then asking for your credit card information at the last step to start a trial. 
 
@@ -63,9 +63,9 @@ I was not sure whether I should use a UI library like Gluon or design everything
 
 Here are some photos:
 
-![](../res/setting-up/2nd-ui.png)
+![](/assets/setting-up/2nd-ui.png)
 This is the first iteration.
-![](../res/setting-up/current-ui.png)
+![](/assets/setting-up/current-ui.png)
 
 
 This is the current iteration. The UI is still a WIP but the sidebar is almost finished. I just need to remake the icons because I think they just don't look that good yet. Will probably add colors so that they stand out better.
@@ -74,7 +74,7 @@ On the right is the logins menu which holds all the passwords. It works almost t
 
 Right now, I'm working on a custom input controller where the label goes up when the user clicks on the text field. Still no animations yet but coming soon!
 
-![](../res/setting-up/rich-input-demo.gif)
+![](/assets/setting-up/rich-input-demo.gif)
 
 Also the red text is the error message if the user doesn't enter valid text in the a text field. Still working on the model for logins and the UI will be updated after that.
 
