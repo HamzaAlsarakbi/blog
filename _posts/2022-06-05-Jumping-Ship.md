@@ -9,7 +9,7 @@ Hi again! This is going to be a short blog but an important milestone.
 
 # NAS
 
-So when I was out buying some parts for my NAS (part 2 coming once I received the remaining parts) I thought I should throw in an M.2 while I was at it. So I bought myself some WD Gen 4 M.2 which is apparently faster than my Samsung 980. So I thought hey might as well install Linux on it and dualboot.
+So when I was out buying some parts for my NAS (part 2 coming once I received the remaining parts) I thought I should throw in an M.2 while I was at it. So I bought myself some WD Gen 4 M.2 which is apparently faster than my Samsung 980. So I thought might as well install Linux on it and dualboot.
 
 
 # Linux
